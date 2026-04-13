@@ -13,7 +13,7 @@ A fully functional enterprise-level environment virtualized on macOS. This proje
 - **Environment:** Windows Server 2022 & Windows 10 Business
 
 ## Configurations Documented
-- **Active Directory:** Established a forest root domain ([YOURDOMAIN].local).
+- **Active Directory:** Established a forest root domain (corp.local).
 - **DNS/DHCP:** Configured the DC as the primary DNS resolver for the internal subnet.
 - **User Management:** Created OUs for Users and Computers; implemented standardized naming conventions.
 - **Security:** Perimeter Firewall configuration with NAT for internet breakout.
